@@ -1,7 +1,7 @@
 **OmniRoute: Free AI Gateway**
 Step by Step Installation Guide
 
-OmniRoute is a free, open-source AI gateway. It connects many AI providers, including free ones, behind a single endpoint. Your coding tool (Cursor, Cline, Claude Code and others) talks to that one endpoint, OmniRoute picks a provider for you, and if one provider hits its limit it switches to another automatically.
+**OmniRoute is a free**, open-source AI gateway. It connects many AI providers, including free ones, behind a single endpoint. Your coding tool (Cursor, Cline, Claude Code and others) talks to that one endpoint, OmniRoute picks a provider for you, and if one provider hits its limit it switches to another automatically.
 
 Official Links
 Website: https://omniroute.online
@@ -92,22 +92,19 @@ docker run -d --name omniroute --restart unless-stopped \
 Then open http://localhost:20128.
 
 Common Problems and Solutions
-Problem	Solution
-"npm" is not recognized	Node.js did not install properly. Reinstall it, then close and reopen the terminal.
-Node version error	Install Node 22 LTS and check the GitHub README for the latest requirement.
-EACCES / permission error (Mac, Linux)	Put sudo before the command, or fix your npm global folder permissions.
-localhost:20128 does not open	Check that omniroute is still running in the terminal. If you closed it, start it again.
-Port 20128 already in use	Close the other app using that port, or check whether OmniRoute is already running.
-No response from the model	Check that your provider is connected on the Providers page. You may have hit a free limit, so connect another provider.
-Good to Remember
-Free tiers have limits. Heavy usage can get you blocked by a provider.
-Model availability changes. Trust only what your dashboard shows.
-Keep your API keys private and follow each provider's terms of service.
+| Problem | Solution |
+|---|---|
+| "npm" is not recognized | Node.js did not install properly. Reinstall it, then close and reopen the terminal. |
+| Node version error | Install Node 22 LTS and check the GitHub README for the latest requirement. |
+| EACCES / permission error (Mac, Linux) | Put `sudo` before the command, or fix your npm global folder permissions. |
+| localhost:20128 does not open | Check that `omniroute` is still running in the terminal. If you closed it, start it again. |
+| Port 20128 already in use | Close the other app using that port, or check whether OmniRoute is already running. |
+| No response from the model | Check that your provider is connected on the Providers page. You may have hit a free limit, so connect another provider. |
 
 Official website: omniroute.online · Official GitHub: github.com/diegosouzapw/OmniRoute
 
 join my biggest community to get more info like this
 
-https://chat.whatsapp.com/FFpCBlrGWXyJLnlVOgzbGW
+**https://chat.whatsapp.com/FFpCBlrGWXyJLnlVOgzbGW**
 
 @growwithwenky
