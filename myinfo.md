@@ -1,6 +1,12 @@
 **OmniRoute: Free AI Gateway**
 Step by Step Installation Guide
 
+**Reachout to me if you get any doubts 👇👇👇**
+
+**https://chat.whatsapp.com/FFpCBlrGWXyJLnlVOgzbGW**
+
+
+
 **OmniRoute is a free**, open-source AI gateway. It connects many AI providers, including free ones, behind a single endpoint. Your coding tool (Cursor, Cline, Claude Code and others) talks to that one endpoint, OmniRoute picks a provider for you, and if one provider hits its limit it switches to another automatically.
 
 Official Links
@@ -104,8 +110,11 @@ Then open http://localhost:20128.
 
 Official website: omniroute.online · Official GitHub: github.com/diegosouzapw/OmniRoute
 
-join my biggest community to get more info like this became expert using Ai
+join my community to get more info like this and  became expert using Ai get many more benifts 
 
 **https://chat.whatsapp.com/FFpCBlrGWXyJLnlVOgzbGW**
 
-@growwithwenky
+@growwithwenky (instahandle)
+
+**TO YOUR SUCCESS** 
+**WENKATESH PIDIYALA🎯**
