@@ -1,4 +1,4 @@
-**##OmniRoute: Free AI Gateway##**
+##**OmniRoute: Free AI Gateway**##
 Step by Step Installation Guide
 
 **Reachout to me if you get any doubts 👇👇👇**
