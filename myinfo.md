@@ -13,7 +13,7 @@ Before You Start
 A computer running Windows, Mac or Linux.
 Node.js 22 LTS (recommended). Check the GitHub README for the latest requirement.
 An internet connection and about 10 minutes. No credit card needed.
-Step 1: Install Node.js
+**Step 1** : Install Node.js
 Open nodejs.org in your browser.
 Download the LTS version and install it.
 Open a terminal and check:
@@ -22,11 +22,11 @@ node -v
 
 If it prints a version number (for example v22.x.x), Node is installed correctly.
 
-Step 2: Open a Terminal
+**Step 2**: Open a Terminal
 Windows: search for "PowerShell" in the Start menu.
 Mac: press Cmd + Space, type "Terminal".
 Linux: press Ctrl + Alt + T.
-Step 3: Install OmniRoute
+**Step 3**: Install OmniRoute
 
 Paste this into the terminal and press Enter:
 
@@ -35,7 +35,7 @@ npm install -g omniroute
 
 It can take about a minute. If it finishes without errors, the install worked.
 
-Step 4: Start OmniRoute
+**Step 4**: Start OmniRoute
 bash
 omniroute
 
@@ -43,7 +43,7 @@ The server starts on port 20128.
 
 Important: Do not close this terminal window. Closing it stops OmniRoute.
 
-Step 5: Open the Dashboard
+**Step 5**: Open the Dashboard
 
 Open this address in your browser:
 
@@ -51,20 +51,20 @@ http://localhost:20128
 
 The dashboard appears. On first run a password or setup screen may show up. Follow it.
 
-Step 6: Connect a Free Provider
+**Step 6**: Connect a Free Provider
 Go to the Providers page and click Add Provider.
 Choose a free option, for example Kiro AI (for Claude models) or OpenCode Free.
 Click Connect and follow the instructions on screen.
 
 Free providers and models change over time. What you see in your own dashboard is the final word.
 
-Step 7: Get Your API Key
+**Step 7**: Get Your API Key
 Open Settings, then the API Keys section.
 Create a new key or copy an existing one.
 
 Never share your API key with anyone, and blur it in screenshots.
 
-Step 8: Use It in Your Tool
+**Step 8**: Use It in Your Tool
 
 Open the settings of Cursor, Cline, Claude Code or any OpenAI-compatible tool and enter:
 
@@ -91,7 +91,7 @@ docker run -d --name omniroute --restart unless-stopped \
 
 Then open http://localhost:20128.
 
-Common Problems and Solutions
+**Common Problems and Solutions**
 | Problem | Solution |
 |---|---|
 | "npm" is not recognized | Node.js did not install properly. Reinstall it, then close and reopen the terminal. |
@@ -103,7 +103,7 @@ Common Problems and Solutions
 
 Official website: omniroute.online · Official GitHub: github.com/diegosouzapw/OmniRoute
 
-join my biggest community to get more info like this
+join my biggest community to get more info like this became expert using Ai
 
 **https://chat.whatsapp.com/FFpCBlrGWXyJLnlVOgzbGW**
 
