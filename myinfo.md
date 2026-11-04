@@ -26,6 +26,7 @@ If it prints a version number (for example v22.x.x), Node is installed correctly
 Windows: search for "PowerShell" in the Start menu.
 Mac: press Cmd + Space, type "Terminal".
 Linux: press Ctrl + Alt + T.
+
 **Step 3**: Install OmniRoute
 
 Paste this into the terminal and press Enter:
